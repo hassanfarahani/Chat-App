@@ -1,6 +1,6 @@
 # frog-bother-chat
 
-> A Vue.js project
+> Simple Chat application created with Vue.js. App URL: https://inspiring-mcnulty-f3d6e2.netlify.com/
 
 ## Build Setup
 
